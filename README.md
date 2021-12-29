@@ -13,6 +13,18 @@
     </p>
 
 -------
+## FOR DEPLOY HEROKU USER
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kangsad02/Alphab0t11)
+
+## FOR DEPLOY RAILWAY USER
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FKangsad02%2FAlphab0t11)
+
+## FOR DEPLOY REPLIT USER
+
+[![Run on Repl.it](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Kangsad02/Alphab0t11)
+
 
 ## `ADD BUILDPACK`
 
